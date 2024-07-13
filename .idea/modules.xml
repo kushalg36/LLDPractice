@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LLDPractice.iml" filepath="$PROJECT_DIR$/LLDPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoggingSystem_ChainResponsibility/LoggingSystem_ChainResponsibility.iml" filepath="$PROJECT_DIR$/LoggingSystem_ChainResponsibility/LoggingSystem_ChainResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hasmap/hasmap.iml" filepath="$PROJECT_DIR$/hasmap/hasmap.iml" />
     </modules>
   </component>
 </project>

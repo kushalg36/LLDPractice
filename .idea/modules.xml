@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LLDPractice.iml" filepath="$PROJECT_DIR$/LLDPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggingSystem_ChainResponsibility/LoggingSystem_ChainResponsibility.iml" filepath="$PROJECT_DIR$/LoggingSystem_ChainResponsibility/LoggingSystem_ChainResponsibility.iml" />
     </modules>
   </component>
 </project>

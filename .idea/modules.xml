@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/commmand/commmand.iml" filepath="$PROJECT_DIR$/commmand/commmand.iml" />
       <module fileurl="file://$PROJECT_DIR$/compositeDesign/compositeDesign.iml" filepath="$PROJECT_DIR$/compositeDesign/compositeDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/hasmap/hasmap.iml" filepath="$PROJECT_DIR$/hasmap/hasmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediator/mediator.iml" filepath="$PROJECT_DIR$/mediator/mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/vending machine/vending machine.iml" filepath="$PROJECT_DIR$/vending machine/vending machine.iml" />
     </modules>

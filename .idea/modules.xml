@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/adapterDesign/adapterDesign.iml" filepath="$PROJECT_DIR$/adapterDesign/adapterDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridge/bridge.iml" filepath="$PROJECT_DIR$/bridge/bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commmand/commmand.iml" filepath="$PROJECT_DIR$/commmand/commmand.iml" />
       <module fileurl="file://$PROJECT_DIR$/compositeDesign/compositeDesign.iml" filepath="$PROJECT_DIR$/compositeDesign/compositeDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/hasmap/hasmap.iml" filepath="$PROJECT_DIR$/hasmap/hasmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />

@@ -1,0 +1,23 @@
+1. system
+- instance
+- executorService
+- selectionStrategy
+- Map<String, Elevator>
+- requestElevator(int, Elevator)
+- selectFloor(int)
+
+2. elevator
+- id
+- isRunning
+- currentFloor
+- upRequests TreeSet<>
+- downRequests TreeSet<>
+- state: ElevatorState
+- observers: List<ElevatorObserver>
+- addObserver()
+- getDirection()
+- isRunning()
+- setCurrentFloor()
+- notifyObserver()
+- setState()
+- addRequest(Request)

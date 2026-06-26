@@ -1,0 +1,83 @@
+MovieBookingService
+-------------------
+- instance
+- movies
+- users
+- theaters
+- cities
+- shows
+- seatLockManager
+- bookingManager
+--------------------
+- addMovie()
+- findShows()
+- findCinemaForShows()
+- addShow()
+- bookTicket()
+- createUser()
+- addCity()
+- addCinema()
+- getBookingManager()
+
+Theater
+------
+- id
+- city
+- name
+- List<Screen>
+
+City
+-----
+- id
+- name
+
+Movie
+-----
+- id
+- name
+- durationInMins
+
+Show
+----
+- id
+- movie
+- screen
+- pricingStrategy
+
+Screen
+------
+- id
+- seats
+
+Seat
+-----
+- id
+- row
+- col
+- type
+- status
+
+bookingManager
+--------------
+- seatLockManager
+- createBooking()
+
+seatLockManager
+---------------
+- LOCK_TIMEOUT_MS
+- lockedSeats
+- schedular
+- lockSeats()
+- unlockSeats()
+- shutdown()
+
+MovieSubject
+--------
+- observers
+- addObserver
+- updateObserver
+- notifyObserver
+
+Observer
+--------
+update()
